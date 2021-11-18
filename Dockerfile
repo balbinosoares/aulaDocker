@@ -1,4 +1,4 @@
-FROM node:16-alpine
+FROM node:14-alpine
 #Imagem do Docker hub - node 16 no Linux Alpine
 WORKDIR /usr/app
 
