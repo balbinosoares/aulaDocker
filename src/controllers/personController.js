@@ -1,5 +1,5 @@
 exports.get = (req, res, next) => {
-    res.status(200).send('Requisição recebida com sucesso!');
+    res.status(200).send('Requisição recebida com sucesso! - Este é um teste de alteração');
 };
 
 
